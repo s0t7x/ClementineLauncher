@@ -1,0 +1,12 @@
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.exe.config
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.exe
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.pdb
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\MetroFramework.dll
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Form1.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Properties.Resources.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.csproj.GenerateResource.Cache
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.exe
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.pdb
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Form2.resources
