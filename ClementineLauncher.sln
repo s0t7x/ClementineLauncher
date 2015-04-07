@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClementineLauncher", "ClementineLauncher\ClementineLauncher.csproj", "{748F59EE-B7BD-4F9A-90D1-E185020159AE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B48DF8A-C86A-436A-AC4F-41D81E723E4E}"
+	ProjectSection(SolutionItems) = preProject
+		IniParser.cs = IniParser.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

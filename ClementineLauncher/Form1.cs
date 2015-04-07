@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Net;
+using System.IO;
 
 namespace ClementineLauncher
 {
@@ -21,14 +23,12 @@ namespace ClementineLauncher
         private void button1_Click(object sender, EventArgs e)
         {
             Process.Start("PsuIlluminus.exe");
+            this.Close();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            // Create a new instance of the Form2 class
             Form2 settingsForm = new Form2();
-
-            // Show the settings form
             settingsForm.Show();
         }
 
@@ -40,6 +40,18 @@ namespace ClementineLauncher
         private void button2_Click(object sender, EventArgs e)
         {
             Process.Start("http://psu-clementine.net/index.php");
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            credits settingsForm = new credits();
+            settingsForm.Show();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Process.Start("PsuIlluminusOff.exe");
+            this.Close();
         }
     }
 }

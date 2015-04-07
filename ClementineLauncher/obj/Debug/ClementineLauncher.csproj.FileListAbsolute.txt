@@ -10,3 +10,4 @@ C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLaunche
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.exe
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.pdb
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Form2.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.credits.resources
