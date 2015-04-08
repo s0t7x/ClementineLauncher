@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Diagnostics;
 using System.Net;
 using System.IO;
+using System.Net.Sockets;
 
 namespace ClementineLauncher
 {
@@ -53,5 +54,38 @@ namespace ClementineLauncher
             Process.Start("PsuIlluminusOff.exe");
             this.Close();
         }
-    }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            TcpClient tcpportScan = new TcpClient();
+            string IP = "psu-clementine.ddns.net";
+            try
+            {
+                tcpportScan.Connect(IP, 11230);
+                this.Invoke((MethodInvoker)delegate
+                {
+                    this.statText.Text = "Online";
+                    this.statText.ForeColor = Color.Lime;
+                    tcpportScan.Close();
+                    timer1.Stop();
+                    timer1.Enabled = false;
+                });
+            }
+            catch
+            {
+                this.Invoke((MethodInvoker)delegate
+                {
+                    this.statText.Text = "Offline";
+                    this.statText.ForeColor = Color.Red;
+                    //          tcpportScan.Close();
+                });
+            }
+
+        }
+
+
+
+
+	}
+
 }

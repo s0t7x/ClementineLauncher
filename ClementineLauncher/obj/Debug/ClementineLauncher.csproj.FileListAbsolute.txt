@@ -1,8 +1,6 @@
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.exe.config
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.exe
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\ClementineLauncher.pdb
-C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\MetroFramework.dll
-C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.csprojResolveAssemblyReference.cache
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Form1.resources
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Properties.Resources.resources
@@ -11,3 +9,6 @@ C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLaunche
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.pdb
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.Form2.resources
 C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Debug\ClementineLauncher.credits.resources
+D:\Program Files (x86)\SEGA\PHANTASY STAR UNIVERSE Illuminus\ClementineLauncher.exe.config
+D:\Program Files (x86)\SEGA\PHANTASY STAR UNIVERSE Illuminus\ClementineLauncher.exe
+D:\Program Files (x86)\SEGA\PHANTASY STAR UNIVERSE Illuminus\ClementineLauncher.pdb

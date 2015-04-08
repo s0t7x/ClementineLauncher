@@ -1,0 +1,11 @@
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\bin\Release\ClementineLauncher.exe.config
+C:\Users\Keiren\Dropbox\ClementineLauncher.exe.config
+C:\Users\Keiren\Dropbox\ClementineLauncher.exe
+C:\Users\Keiren\Dropbox\ClementineLauncher.pdb
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.credits.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.Form1.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.Form2.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.Properties.Resources.resources
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.csproj.GenerateResource.Cache
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.exe
+C:\Users\Keiren\SkyDrive\Documents\Visual Studio 2013\Projects\ClementineLauncher\ClementineLauncher\obj\Release\ClementineLauncher.pdb

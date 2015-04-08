@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
             this.button1 = new System.Windows.Forms.Button();
@@ -37,9 +38,9 @@
             this.button5 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button6 = new System.Windows.Forms.Button();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.label1 = new System.Windows.Forms.Label();
             this.statText = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -94,7 +95,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(762, 436);
+            this.button5.Location = new System.Drawing.Point(762, 439);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 5;
@@ -121,13 +122,6 @@
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
-            // progressBar1
-            // 
-            this.progressBar1.Location = new System.Drawing.Point(4, 467);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(632, 18);
-            this.progressBar1.TabIndex = 8;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -141,11 +135,18 @@
             // statText
             // 
             this.statText.AutoSize = true;
-            this.statText.ForeColor = System.Drawing.SystemColors.Control;
-            this.statText.Location = new System.Drawing.Point(740, 475);
+            this.statText.ForeColor = System.Drawing.Color.Yellow;
+            this.statText.Location = new System.Drawing.Point(698, 475);
             this.statText.Name = "statText";
-            this.statText.Size = new System.Drawing.Size(0, 13);
+            this.statText.Size = new System.Drawing.Size(64, 13);
             this.statText.TabIndex = 10;
+            this.statText.Text = "Searching...";
+            // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // Form1
             // 
@@ -155,7 +156,6 @@
             this.ClientSize = new System.Drawing.Size(896, 493);
             this.Controls.Add(this.statText);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -185,9 +185,9 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label statText;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 
